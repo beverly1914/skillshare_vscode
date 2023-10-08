@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
- 		<title>Test page</title>
- </head>
- <body>
- 		<h1>Hey. I'm a Big heading</h1>
- 		<p>Hey. I'm a <b>paragraph</b> element. Cool huh?</p>
- 		<a href="https.google.com" target="_blank" title="Let's go to google">clink me! I'm a link!<a/>
- 		<p>My name is:<br>
- 		Kitty Cat</p>
- 		<img src="cat.jpeg">
- 		</body>
- 		</html>
+    <title>Test page</title>
+</head>
+<body>
+    <h1>Hey. I'm a Big heading</h1>
+    <p>Hey. I'm a <b>paragraph</b> element. Cool huh?</p>
+    <a href="https://www.google.com" target="_blank" title="Let's go to Google">Click me! I'm a link!</a>
+    <p>My name is:<br>Kitty Cat</p>
+    <img src="img/lelouch.jpeg" alt="A picture of lelouch">
+</body>
+</html>
 
 
